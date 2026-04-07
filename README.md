@@ -77,16 +77,6 @@ My open-source work is organised around three pillars:
 
 ---
 
-## 🏅 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| Identity & Access Administrator Associate (SC-300) | Microsoft | 2022 |
-| Security, Compliance & Identity Fundamentals (SC-900) | Microsoft | 2022 |
-| Azure Fundamentals (AZ-900) | Microsoft | 2022 |
-
----
-
 ## 💡 Vision
 
 > *To build intelligent systems that not only scale, but can reason about their own failures and recover autonomously — reducing human toil and improving reliability at every layer of the stack.*
