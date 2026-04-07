@@ -10,7 +10,9 @@
 - 📘 **Author** of two books:
   - *Engineering Software Systems for Scale, Resilience, and Uncertainty*
   - *AI-Augmented Software Engineering: Tools and Practices*
+    
 - 🌍 Based in **Manchester, UK** — working across distributed teams globally
+
 - 🔬 Currently building open-source platforms at the intersection of:
   - Distributed systems & infrastructure automation
   - Self-healing infrastructure & AI-driven incident response
