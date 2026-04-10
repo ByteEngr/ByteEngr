@@ -45,11 +45,6 @@ My open-source work is organised around three pillars:
 ### 🔹 [Scalable Payment Simulation Engine](https://github.com/ByteEngr/payment-simulation-engine)
 > High-performance engine for simulating large-scale financial transactions and stress-testing payment APIs under extreme load.
 
-### 🔹 [M365 Security Baselines](https://github.com/ByteEngr/M365-Security-Baselines)
-> Security templates, baselines, and configurations for Microsoft 365 + Defender suite — used in enterprise deployments.
-
-### 🔹 [Entra ID Identity Governance](https://github.com/ByteEngr/Entra-ID-Identity-Governance)
-> Sample policies, Graph API automations, and governance workflows for Entra ID at scale.
 
 ---
 
