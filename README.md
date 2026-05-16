@@ -34,20 +34,6 @@ My open-source work is organised around three pillars:
 
 ---
 
-## 🔥 Featured Projects
-
-### 🔹 [Self-Healing Infrastructure System](https://github.com/ByteEngr/self-healing-infra)
-> Automated infrastructure that detects failures and applies corrective actions in real-time using Kubernetes operators and AI-driven diagnostics.
-
-### 🔹 [AI Engineering Copilot](https://github.com/ByteEngr/ai-engineering-copilot)
-> AI-powered assistant for log analysis, incident diagnosis, root cause detection, and infrastructure code generation.
-
-### 🔹 [Scalable Payment Simulation Engine](https://github.com/ByteEngr/payment-simulation-engine)
-> High-performance engine for simulating large-scale financial transactions and stress-testing payment APIs under extreme load.
-
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend**
